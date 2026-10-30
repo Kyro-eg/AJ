@@ -1,0 +1,7 @@
+{
+  "routes": [
+    { "path": "/", "title": "A-J Wears It" },
+    { "path": "/admin", "title": "A-J Wears It — Admin" },
+    { "path": "/404", "title": "Not Found" }
+  ]
+}
